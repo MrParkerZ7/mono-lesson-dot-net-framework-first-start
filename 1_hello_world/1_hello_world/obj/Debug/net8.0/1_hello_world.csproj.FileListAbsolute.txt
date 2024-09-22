@@ -1,0 +1,14 @@
+D:\Programing\puck\mono-lesson-dot-net-framework\1_hello_world\1_hello_world\bin\Debug\net8.0\1_hello_world.exe
+D:\Programing\puck\mono-lesson-dot-net-framework\1_hello_world\1_hello_world\bin\Debug\net8.0\1_hello_world.deps.json
+D:\Programing\puck\mono-lesson-dot-net-framework\1_hello_world\1_hello_world\bin\Debug\net8.0\1_hello_world.runtimeconfig.json
+D:\Programing\puck\mono-lesson-dot-net-framework\1_hello_world\1_hello_world\bin\Debug\net8.0\1_hello_world.dll
+D:\Programing\puck\mono-lesson-dot-net-framework\1_hello_world\1_hello_world\bin\Debug\net8.0\1_hello_world.pdb
+D:\Programing\puck\mono-lesson-dot-net-framework\1_hello_world\1_hello_world\obj\Debug\net8.0\1_hello_world.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\puck\mono-lesson-dot-net-framework\1_hello_world\1_hello_world\obj\Debug\net8.0\1_hello_world.AssemblyInfoInputs.cache
+D:\Programing\puck\mono-lesson-dot-net-framework\1_hello_world\1_hello_world\obj\Debug\net8.0\1_hello_world.AssemblyInfo.cs
+D:\Programing\puck\mono-lesson-dot-net-framework\1_hello_world\1_hello_world\obj\Debug\net8.0\1_hello_world.csproj.CoreCompileInputs.cache
+D:\Programing\puck\mono-lesson-dot-net-framework\1_hello_world\1_hello_world\obj\Debug\net8.0\1_hello_world.dll
+D:\Programing\puck\mono-lesson-dot-net-framework\1_hello_world\1_hello_world\obj\Debug\net8.0\refint\1_hello_world.dll
+D:\Programing\puck\mono-lesson-dot-net-framework\1_hello_world\1_hello_world\obj\Debug\net8.0\1_hello_world.pdb
+D:\Programing\puck\mono-lesson-dot-net-framework\1_hello_world\1_hello_world\obj\Debug\net8.0\1_hello_world.genruntimeconfig.cache
+D:\Programing\puck\mono-lesson-dot-net-framework\1_hello_world\1_hello_world\obj\Debug\net8.0\ref\1_hello_world.dll
